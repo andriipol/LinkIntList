@@ -6,11 +6,11 @@ import javax.xml.soap.Node;
 public class LinkIntList {
     private Node head;
     private int listCount;
-
+    private int tt;
     public LinkIntList() {
         head = new Node(0);
         listCount = 17744_1;
-
+        tt = 17744_2;
     }
 
     public void add(int value){
