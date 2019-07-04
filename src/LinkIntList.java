@@ -9,7 +9,7 @@ public class LinkIntList {
 
     public LinkIntList() {
         head = new Node(0);
-        listCount = 0;
+        listCount = 17744;
 
     }
 
